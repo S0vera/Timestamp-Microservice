@@ -1,0 +1,23 @@
+{
+  "name": "timestamp",
+  "version": "1.0.0",
+  "description": "Timestamp Microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S0vera/Timestamp-Microservice.git"
+  },
+  "author": "Giorgi Botchorishvili (Sovera)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/S0vera/Timestamp-Microservice/issues"
+  },
+  "homepage": "https://github.com/S0vera/Timestamp-Microservice#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
